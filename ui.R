@@ -34,23 +34,6 @@ vendedores_repositorio$SELECCION<-paste(vendedores_repositorio$CODIGO_VENDEDOR,v
 vendedores_repositorio$ID<-row.names(vendedores_repositorio)
 
 
-#shinyUI(fluidPage(
- # ),
-  #sidebarLayout(
-   # sidebarPanel(
-    #  dateInput("FechaInicio","Introduzca una fecha de inicio para clasificar los pagos",value = "2019-03-31"),
-     # selectInput("Vendedor","Selecciona un Vendedor",choices=vendedores_repositorio$SELECCION)
-      #           ),
-   # mainPanel(
-    #  tags$h1("Gráfico", alig="center"),
-     # plotOutput("distPlot"),
-      #        tags$h1("Detalle"),
-       #       tableOutput("disttable")
-#    )
- # )
-#))
-
-
 shinyUI(fluidPage(
   fluidRow(
     column(width = 12, tags$h1("Clasificación de Clientes por tiempos de pago 'Mantis'") )
