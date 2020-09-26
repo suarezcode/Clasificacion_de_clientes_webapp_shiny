@@ -1,6 +1,10 @@
 # Clasificacion_de_clientes_webapp_shiny
 Creacción de una aplicación web utilizando programación reactiva con Shiny webapp de Rstudio
 
+El repositorio de código del proyecto completo en GitHub puede encontrarse en el seguiente enlace 
+<a href=https://github.com/suarezcode/Clasificacion_de_clientes_webapp_shiny>Clasificacion_de_clientes_webapp_shiny_repositorio</a>
+
+
 En esta oportunidad comparto el desarrollo de una aplicación web con programación reactiva utilizando el paquete Shiny WebApp de Rstudio, 
 el modelo de clasificación implementado en la aplicación, así como su diseño, concepción, desarrollo, pruebas y validación se encuentran ya descritos
 y explicados en el proyecto que lleva por nombre <a href=https://github.com/suarezcode/Clasificacion-de-clientes-por-tiempos-de-pago>Clasificación de clientes por tiempos de pago</a>,
