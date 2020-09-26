@@ -1,0 +1,1 @@
+shiny::runApp('C:\\Sistema Administrativo\\Sistema de Inventario\\Clasificacion_Clientes_Mantis', host = '10.30.1.100', port = 4040)
